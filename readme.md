@@ -1,1 +1,1 @@
-"branch concept"
+"branch concept - from branch2"
